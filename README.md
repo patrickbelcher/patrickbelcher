@@ -1,5 +1,5 @@
 # Hi, I'm Patrick 
-I'm a software and systems professional transitioning into software and data engineering.  
+I'm a technical audio and control systems professional transitioning into software and data engineering.  
 My background spans 15+ years in electronics, pro-audio, and networked AV systems.
 
 ### University Projects
