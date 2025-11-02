@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Patrick 
+I'm a software and systems professional transitioning into software and data engineering.  
+My background spans 15+ years in electronics, pro-audio, and networked AV systems.
 
-<!--
-**patrickbelcher/patrickbelcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### University Projects
+**Sort Algorithm Benchmark Tester** – Modular Java benchmarking framework comparing classic sorting algorithms and generating visual performance reports.  
+**Text Simplifier** – Java NLP tool using word embeddings and cosine similarity to simplify text.  
+*(Both hosted in private repositories — available on request.)*
 
-Here are some ideas to get you started:
+**Contact:** [patrickjpbelcher@gmail.com](mailto:patrickjpbelcher@gmail.com)  
+**GitHub:** [github.com/patrickbelcher](https://github.com/patrickbelcher)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working towards a CompTIA Network+ certification and building a site with customised audio player.
+
